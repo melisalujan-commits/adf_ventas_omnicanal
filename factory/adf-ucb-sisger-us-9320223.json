@@ -1,0 +1,15 @@
+{
+	"name": "adf-ucb-sisger-us-9320223",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "mexicocentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1f9ff2f0-9c4c-4640-93f5-15c283dc63da",
+		"tenantId": "cc28633f-12b8-46cb-bc15-951dae239b4d"
+	}
+}
